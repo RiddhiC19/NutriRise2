@@ -1,0 +1,486 @@
+body {
+  font-family: 'Brandon';
+  margin: 0px;
+}
+/* title style */
+#n-r-2-title-bar {
+  background-color: #63ded6;
+  text-align: center;
+}
+.n-r-2-title-bar-top p {
+  color: #ffff;
+  margin: 0;
+  font-size: 13px;
+  font-weight: 450;
+  padding: 11px 0;
+  letter-spacing: 0.15em;
+}
+.n-r-2-banner {
+  background-color: #2e7665;
+}
+/* shop scroll */
+.n-r-2-shop {
+  display: flex;
+  padding: 75px 0px;
+}
+.n-r-2-shop img {
+  padding-right: 30px;
+}
+/* quiz */
+.n-r-2-quiz {
+  display: flex;
+  background-color: #fbefe4;
+  padding: 43px 106px;
+  border-radius: 165.5px;
+}
+#n-r-2-shop-quiz-section {
+  padding: 0px 326px;
+  padding-bottom: 75px;
+}
+
+.n-r-2-quiz-Q {
+  font-size: 36px;
+  font-family: 'Brandon Bold';
+  margin: 0;
+  padding-bottom: 5px;
+}
+.n-r-2-quiz-A {
+  font-size: 18px;
+  font-weight: 390px;
+  margin: 0;
+  padding-bottom: 29px;
+}
+.n-r-2-quiz-disc {
+  padding: 38px;
+  padding-right: 0;
+}
+.n-r-2-quiz-btn {
+  border: none;
+}
+
+/* deserve formulas section */
+#n-r-2-deserve-section {
+  background-color: #cfebe3;
+}
+.n-r-2-deserve-iconWithName {
+  display: flex;
+}
+.n-r-2-deserve-t {
+  font-size: 36px;
+  font-family: 'Brandon Bold';
+  text-align: center;
+  padding-bottom: 10px;
+}
+.n-r-2-deserve-s-t {
+  font-weight: 390;
+  font-size: 18px;
+  text-align: center;
+  padding-bottom: 60px;
+}
+.n-r-2-deserve-name {
+  font-weight: 390;
+  font-size: 18px;
+}
+.n-r-2-deserve-iconWithName {
+  text-align: center;
+}
+.n-r-2-deserve-iconWithName {
+  justify-content: space-between;
+  margin: 0px 312px;
+}
+.n-r-2-deserve {
+  padding: 72px 0px;
+}
+.n-r-2-deserve-icon {
+  padding-bottom: 20px;
+}
+
+/* customer css */
+
+.n-r-2-fire-text {
+  font-size: 40px;
+  font-family: 'Brandon Bold';
+  text-align: center;
+  margin: 0 595px;
+  padding-bottom: 40px;
+}
+
+.n-r-2-fire-img {
+  text-align: center;
+}
+.n-r-2-customer-div {
+  padding: 75px 0px;
+}
+.n-r-2-fire-text-number {
+  color: #f19416;
+}
+.n-r-2-customer-review-title {
+  font-size: 24px;
+  font-family: 'Brandon Bold';
+  padding-bottom: 15px;
+}
+.n-r-2-customer-review-dec {
+  font-size: 18px;
+  font-weight: 390;
+  padding-bottom: 9px;
+}
+.n-r-2-customer-review-box {
+  background-color: #e2f0ee;
+  padding: 30px;
+  text-align: center;
+  margin: 0px 30px;
+  border-radius: 10px;
+  width: 375px;
+}
+.n-r-2-customer-review-scroll {
+  display: flex;
+}
+
+/* shop by benifit */
+.n-r-2-shop-benefit-title {
+  font-size: 36px;
+  font-family: 'Brandon Bold';
+  text-align: center;
+  padding-bottom: 35px;
+}
+.n-r-2-shop-benefit-text-top {
+  font-size: 14px;
+  font-weight: 390;
+  padding-bottom: 15px;
+  padding-right: 180px;
+  letter-spacing: 2px;
+}
+.n-r-2-shop-benefit-text-name {
+  font-size: 32px;
+  font-family: 'Brandon Bold';
+  padding-bottom: 15px;
+  padding-right: 190px;
+}
+.n-r-2-shop-benefit-text-desc {
+  font-size: 20px;
+  font-weight: 390;
+  padding-bottom: 15px;
+  padding-right: 55px;
+}
+.n-r-2-shop-benefit-btn {
+  /* background-color: #87ceba; */
+  color: white;
+}
+.n-r-2-shop-benefit-box {
+  background-color: #f5d8bd;
+}
+.n-r-2-shop-benefit-btn button {
+  background-color: #87ceba;
+  color: white;
+  border: none;
+  padding: 22px 0px;
+  width: 179px;
+  font-size: 14px;
+  font-family: 'Brandon Bold';
+}
+.n-r-2-shop-benefit-box {
+  display: flex;
+  padding: 48px;
+  width: 1035px;
+  border-radius: 30px;
+  margin: auto;
+}
+.n-r-2-shop-benefit-box-text {
+  /* padding-right: 89px; */
+  padding: 18px;
+  margin-right: 90px;
+}
+img.n-r-2-2 {
+  display: none;
+}
+/* logo list */
+.n-r-2-logolist {
+  display: flex;
+  margin: 75px 157px;
+  justify-content: space-between;
+}
+fePointLight.n-r-2-filanthropy {
+  display: flex;
+  flex-wrap: wrap;
+}
+.n-r-2-feed-img {
+  border-top-right-radius: 150px;
+}
+.n-r-2-tree-img {
+  border-top-left-radius: 150px;
+}
+.n-r-2-filanthropy {
+  justify-content: space-between;
+}
+.n-r-2-filanthropy-logo {
+  margin: auto;
+}
+.n-r-2-feed-inner-text {
+  font-size: 40px;
+  font-family: 'Brandon Bold';
+}
+.n-r-2-feed-number {
+  font-size: 64px;
+  font-family: 'Brandon Bold';
+}
+.n-r-2-feed-p-f {
+  font-size: 24px;
+  font-family: 'Brandon Bold';
+}
+.n-r-2-feed-img-text {
+  position: absolute;
+  margin-top: -427px;
+  text-align: center;
+  margin-left: 145px;
+  color: #ffff;
+}
+.n-r-2-feed-inner-text {
+  padding-bottom: 7px;
+}
+hr {
+  border: 5px solid #63ded6;
+  margin-top: -28px;
+}
+.n-r-2-tree-img-text {
+  position: absolute;
+  margin-top: -427px;
+  text-align: center;
+  margin-left: 145px;
+  color: #ffff;
+}
+.n-r-2-filanthropy {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img.n-r-2-feed-img {
+  position: relative;
+}
+img.n-r-2-tree-img {
+  position: relative;
+}
+
+.n-r-2-mob-ph-tree,
+.n-r-2-mob-ph-feed,
+.n-r-2-mob-ph-logo {
+  display: none;
+}
+.n-r-2-behind-nutrise {
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+.n-r-2-vl {
+  background-color: #63ded6;
+  height: 545px;
+  width: 50px;
+  /* margin: auto; */
+}
+.n-r-2-behind-text-title {
+  font-family: 'Brandon Bold';
+  font-size: 36px;
+  padding-bottom: 10px;
+}
+.n-r-2-behind-text-dec {
+  font-size: 18px;
+  font-weight: 390;
+  padding-bottom: 40px;
+}
+.n-r-2-b-btn {
+  color: #38c39b;
+  border: 1px solid #38c39b;
+  background-color: white;
+  font-size: 14px;
+  font-family: 'Brandon Bold';
+  padding: 22px 64px;
+  letter-spacing: 2px;
+  border-radius: 5px;
+}
+.n-r-2-behind-nutrise {
+  padding: 75px 0px;
+}
+.n-r-2-behind-text {
+  margin: auto;
+  padding-left: 103px;
+  padding-right: 96px;
+}
+.n-r-2-behind-img {
+  margin-right: 190px;
+}
+.n-r-2-mob-behind-img {
+  display: none;
+}
+/* responsiv for quiz section */
+@media only screen and (max-width: 600px) {
+  #n-r-2-shop-quiz-section {
+    padding: 0px 0px;
+    padding-bottom: 75px;
+  }
+  .n-r-2-quiz {
+    display: block;
+    background-color: #fbefe4;
+
+    padding: 40px 0px;
+    border-radius: 0px;
+  }
+  .n-r-2-quiz-disc {
+    /* padding: 38px; */
+    padding: 0;
+  }
+  .n-r-2-quiz-img {
+    text-align: center;
+  }
+  .n-r-2-quiz-QA {
+    text-align: center;
+  }
+
+  /* responsiv for  deserve formulas section */
+  .n-r-2-deserve-iconWithName {
+    /* justify-content: space-between; */
+    margin: 0px;
+    padding: 0px 36px;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .n-r-2-deserve-name {
+    width: 135px;
+    padding-bottom: 60px;
+  }
+  /* responsiv for customer */
+  .n-r-2-fire-text {
+    margin: auto;
+  }
+  /* responsiv for shopby */
+  .n-r-2-shop-benefit-box {
+    display: block;
+    padding: 0px;
+    width: 332px;
+    border-radius: 30px;
+    margin: auto;
+  }
+  .n-r-2-shop-benefit-text-top {
+    font-size: 10px;
+    font-weight: 390;
+    padding-bottom: 15px;
+    padding-right: 0;
+    letter-spacing: 2px;
+  }
+  .n-r-2-shop-benefit-box-text {
+    margin-right: 0px !important;
+    text-align: center;
+  }
+  .n-r-2-shop-benefit-text-name {
+    font-size: 20px;
+    font-family: 'Brandon Bold';
+    padding-bottom: 15px;
+    padding-right: 0px;
+  }
+  .n-r-2-shop-benefit-text-desc {
+    padding-right: 0px !important;
+    font-size: 14px;
+  }
+  img.n-r-2-1 {
+    display: none;
+  }
+  img.n-r-2-2 {
+    display: block;
+  }
+  /* logo list responsive */
+  .n-r-2-logolist {
+    /* display: block; */
+    margin: 0;
+    text-align: center;
+    overflow: scroll;
+  }
+  .n-r-2-logo-item {
+    /* padding-bottom: 25px; */
+  }
+  .n-r-2-logo-item {
+    padding-right: 75px;
+  }
+  /* phi */
+  .n-r-2-feed-img {
+    border-top-right-radius: 0px;
+  }
+  .n-r-2-tree-img {
+    border-top-left-radius: 0px;
+  }
+  .n-r-2-feed-img-text {
+    position: absolute;
+    margin-top: -372px;
+    text-align: center;
+    margin-left: 76px;
+    color: #ffff;
+  }
+  .n-r-2-tree-img-text {
+    position: absolute;
+    margin-top: -342px;
+    text-align: center;
+    margin-left: 76px;
+    color: #ffff;
+  }
+  .n-r-2-filanthropy {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .n-r-2-desh-ph-tree,
+  .n-r-2-desh-ph-feed,
+  .n-r-2-desh-ph-logo {
+    display: none;
+  }
+  .n-r-2-mob-ph-tree,
+  .n-r-2-mob-ph-feed,
+  .n-r-2-mob-ph-logo {
+    display: flex;
+  }
+  img.n-r-2-des-ph-logo {
+    display: none;
+  }
+  .n-r-2-filanthropy-logo {
+    order: 1;
+  }
+  .n-r-2-filanthropy-feed {
+    order: 2;
+  }
+  .n-r-2-filanthropy-tree {
+    order: 3;
+  }
+  .n-r-2-vl {
+    display: none;
+  }
+  .n-r-2-behind-text {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .n-r-2-desh-behind-img {
+    display: none;
+  }
+  .n-r-2-mob-behind-img {
+    display: block;
+  }
+  .n-r-2-behind-nutrise {
+    flex-wrap: wrap;
+  }
+  .n-r-2-behind-text {
+    padding: 0px 15px;
+    padding-bottom: 40px;
+  }
+  .n-r-2-behind-img {
+    padding: 0px 15px;
+  }
+  .n-r-2-behind-nutrise {
+    padding: 40px 0px;
+  }
+  img.n-r-2-mob-ph-logo {
+    padding: 40px 0px;
+  }
+  .n-r-2-logolist {
+    padding: 40px 0px;
+  }
+  .n-r-2-quiz-disc {
+    padding: 0px 15px;
+  }
+  .n-r-2-deserve-t,
+  .n-r-2-deserve-s-t {
+    padding: 0px 15px;
+  }
+}
