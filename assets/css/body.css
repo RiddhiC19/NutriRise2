@@ -135,7 +135,16 @@ img.n-r-2-sh-img-item {
 .n-r-2-quiz-btn {
   border: none;
 }
-
+.n-r-2-quiz-btn {
+  background-color: #87ceba;
+  color: white;
+  font-size: 14px;
+  font-family: 'Brandon';
+  padding: 21px;
+  border: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
 /* deserve formulas section */
 #n-r-2-deserve-section {
   background-color: #cfebe3;
@@ -247,7 +256,16 @@ img.n-r-2-sh-img-item {
 .n-r-2-shop-benefit-box {
   background-color: #f5d8bd;
 }
-.n-r-2-shop-benefit-btn button {
+/* .n-r-2-shop-benefit-btn button {
+  background-color: #87ceba;
+  color: white;
+  border: none;
+  padding: 22px 0px;
+  width: 179px;
+  font-size: 14px;
+  font-family: 'Brandon Bold';
+} */
+button.n-r-2-shop-benefit-btn {
   background-color: #87ceba;
   color: white;
   border: none;
@@ -561,7 +579,7 @@ img.n-r-2-tree-img {
   .n-r-2-deserve-s-t {
     padding: 0px 15px;
   }
-  /* banner */
+  /* banner responsive */
   .n-r-2-banner-try {
     font-size: 16px;
   }
@@ -589,5 +607,18 @@ img.n-r-2-tree-img {
   }
   .n-r-2-banner-btn {
     padding-top: 18px;
+  }
+  .n-r-2-shop-benefit-box {
+    position: relative;
+    padding-bottom: 100px;
+  }
+  .n-r-2-shop-benefit-btn {
+    position: absolute;
+    /* margin-bottom: 30px; */
+    bottom: 18px;
+  }
+  button.n-r-2-shop-benefit-btn {
+    left: 25%;
+    right: 25%;
   }
 }
